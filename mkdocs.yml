@@ -1,4 +1,4 @@
-site_name: Safe Medication
+site_name: Safe Medication (CA)
 theme: readthedocs
 markdown_extensions:
   - attr_list

@@ -1,4 +1,4 @@
-# Safe Medication
+# Safe Medication (CA)
 
 * [Instruction](./manual.md)
 * [Privacy Policy](./privacy.md)
